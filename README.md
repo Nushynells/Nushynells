@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nushynells
 - 👀 I’m interested in Artificial Intelligence and Cybersecurity projects
-- 🌱 I’m currently learning Artificial Intelligence and Cybersecurity
-- 💞️ I’m looking to collaborate on all AI projects
+- 🌱 I’m currently learning Artificial Intelligence
+- 💞️ I’m looking to collaborate on all AI and Cybersecurity projects 
 - 📫 How to reach me email: nushycodes@gmail.com
 
 <!---
